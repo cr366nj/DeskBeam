@@ -8,7 +8,9 @@ DeskBeam is a versatile, user-centric lighting solution designed to optimize mod
 
 ## Links
 *[hardware](./hardware)
+
 *[firmware](./firmware)
+
 *[docs/datasheets](./docs)
 
 ### WIP - Components
