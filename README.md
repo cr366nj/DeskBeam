@@ -7,11 +7,11 @@ You personal desk lamp
 DeskBeam is a versatile, user-centric lighting solution designed to optimize modern workspaces by combining customizable illumination and ease of use. Featuring an intuitive touch-control interface, users can effortlessly adjust color temperature and brightness levels to match specific tasks, while an integrated ambient light sensor automatically tunes output to maintain optimal eye comfort throughout changing daylight conditions. Beyond lighting, the lamp serves as a centralized desktop power station, integrating a multi-port USB charging hub that reduces cable clutter and keeps essential devices powered. Compact, energy-efficient, and thoughtfully engineered, the DeskBeam seamlessly merges ergonomic functionality with contemporary aesthetic design.
 
 ## Links
-*[hardware](./hardware)
+* [Hardware](./hardware)
 
-*[firmware](./firmware)
+* [Firmware](./firmware)
 
-*[docs/datasheets](./docs)
+* [Docs/Datasheets](./docs)
 
 ### WIP - Components
 
