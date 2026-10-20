@@ -61,7 +61,6 @@ DeskBeam is a versatile, user-centric lighting solution designed to optimize mod
 * 24V-to-5V DC-DC Voltage Regulator Module
 * RGB LED Module
 * Active Buzzer Module
-
 </details>
 
 ---
