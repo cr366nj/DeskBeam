@@ -19,6 +19,7 @@ DeskBeam is a versatile, user-centric lighting solution designed to optimize mod
   <dl>
   <dd><details>
     <summary><h4>Proof of Concept✔️</h4></summary>
+    <img width="4281" height="4457" alt="Image" src="https://github.com/user-attachments/assets/f388346f-d811-400e-adfe-f7151ab21a58" />
     <img width="2160" height="2880" alt="Image" src="https://github.com/user-attachments/assets/303cc7da-1bf4-4dc9-80bd-b7915699f433" />
     <img width="2160" height="2880" alt="Image" src="https://github.com/user-attachments/assets/3fb6691f-a595-439b-8b66-afd6977d90fa" />
     <img width="2160" height="2880" alt="Image" src="https://github.com/user-attachments/assets/72b669da-24e3-4558-8a13-c359f30b28d9" />
