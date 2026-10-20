@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Espressif ESP32 S3 Dev") (type "KiCad") (uri "C:/Users/carpi/OneDrive/Documents/School/NJIT/Past Classes/Fall 2026/ECET 230/Homework/ECET 230 Project Schematic/MISC/Espressif.kicad_sym") (options "") (descr ""))
+	(lib (name "veml7700") (type "Legacy") (uri "C:/Users/carpi/OneDrive/Documents/School/NJIT/Past Classes/Fall 2026/ECET 230/Homework/VEML 7700/veml7700.lib") (options "") (descr ""))
+	(lib (name "Additional Symbols (TTP223)") (type "Legacy") (uri "C:/Users/carpi/Downloads/rur.lib") (options "") (descr ""))
+)
